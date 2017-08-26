@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Employees API
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Girish
+Implementation-Vendor-Id: com.techm.api
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://projects.spring.io/spring-boot/employees-ap
+ i/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
